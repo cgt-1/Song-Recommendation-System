@@ -40,6 +40,6 @@ The notebook includes:
 ## 📁 Project Structure
 
 ```text
-Song-Recommendation/
-├── SongReccomendationSystem.ipynb
+SongRecommendation/
+├── SongRecommendationSystem.ipynb
 └── song_recomendation_A.csv
